@@ -1,2 +1,2 @@
-# noobuntu-admin
+# wee-admin
 Some useful bash scripts
